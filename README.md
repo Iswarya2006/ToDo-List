@@ -1,0 +1,1 @@
+This To-Do List application is a front-end project built using HTML, CSS, and JavaScript. It allows users to easily add, complete, and remove tasks, making task management simple and efficient. The project is ideal for beginners learning DOM manipulation and basic web development concepts.
